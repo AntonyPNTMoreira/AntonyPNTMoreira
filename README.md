@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-📖 I’m a programming student at Howest Brugge.<br>💪 I have made a lot of c# projects for web or mobile development<br>🌱 I’m currently learning Vue.js in my free time<br>⚡ I love making games in gdscript<br>ℹ This is a new fresh account for outside of school usage
+📖 I’m a programming student at Howest Brugge.<br>💪 I have made a lot of c# projects for web or mobile development.<br>🌱 I’m currently learning Vue.js in my free time.<br>⚡ I love making games in gdscript.<br>ℹ This is a new fresh account for outside of school usage.
 
 
 # 💻 Tech Stack:
